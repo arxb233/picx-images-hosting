@@ -3,7 +3,7 @@
     "Parameters": [
         {
             "Id": "Param141",
-            "Value": 1.0,
+            "Value": 0,
             "Blend": "Add"
         }
     ]
