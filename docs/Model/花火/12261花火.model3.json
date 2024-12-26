@@ -24,5 +24,6 @@
 			"Name": "EyeBlink",
 			"Ids": []
 		}
-	]
+	],
+	"HitAreas": []
 }
