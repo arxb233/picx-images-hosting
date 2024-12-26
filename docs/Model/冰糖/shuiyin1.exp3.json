@@ -3,7 +3,7 @@
 	"Parameters": [
 		{
 			"Id": "Paramheadxy",
-			"Value": 1,
+			"Value": 30,
 			"Blend": "Add"
 		}
 	]
