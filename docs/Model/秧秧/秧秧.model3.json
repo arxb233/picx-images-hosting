@@ -8,7 +8,25 @@
 			"秧秧.4096/texture_02.png"
 		],
 		"Physics": "秧秧.physics3.json",
-		"DisplayInfo": "秧秧.cdi3.json"
+		"DisplayInfo": "秧秧.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Expressions1",
+				"File": "悲.exp3.json"
+			},
+			{
+				"Name": "Expressions2",
+				"File": "反绑x.exp3.json"
+			},
+			{
+				"Name": "Expressions3",
+				"File": "脸黑.exp3.json"
+			},
+			{
+				"Name": "Expressions4",
+				"File": "眼泪.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{

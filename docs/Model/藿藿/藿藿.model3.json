@@ -9,7 +9,30 @@
 			"藿藿.8192/texture_03.png"
 		],
 		"Physics": "藿藿.physics3.json",
-		"DisplayInfo": "藿藿.cdi3.json"
+		"DisplayInfo": "藿藿.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Expressions1",
+				"File": "抱枕.exp3.json"
+			},
+			{
+				"Name": "Expressions2",
+				"File": "黑脸.exp3.json"
+			},
+			{
+				"Name": "Expressions3",
+				"File": "脸红.exp3.json"
+			},
+			{
+				"Name": "Expressions4",
+				"File": "白眼.exp3.json"
+			},
+			{
+				"Name": "Expressions5",
+				"File": "拿旗子.exp3.json"
+			}
+		]
+		
 	},
 	"Groups": [
 		{
