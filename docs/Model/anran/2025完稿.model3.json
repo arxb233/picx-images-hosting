@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "2025完稿.moc3",
+		"Textures": [
+			"2025完稿.2048/texture_00.png"
+		],
+		"DisplayInfo": "2025完稿.cdi3.json"
+	}
+}
